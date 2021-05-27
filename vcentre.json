@@ -1,0 +1,263 @@
+[ 
+    {
+    "GoogleMap":"https://goo.gl/maps/Vbp8NyCR2RBJYC266",
+    "PinCode" : "110089",
+    "VCAddress":"CGHS CENTRE SEC16 ROHINI",
+    "VCName":"DDA Market, Sec 16 Rohini, North Delhi, Delhi, 110089"
+    },
+
+    {
+        "GoogleMap":"https://goo.gl/maps/DtXR4Lnnx6wKyek6A",
+        "PinCode" : "110009",
+        "VCAddress":"Kingsway Camp Delhi, North Delhi, Delhi, 110009",
+        "VCName":"CGHS KINGSWAY CAMP PHC"
+        },
+
+   {
+    "GoogleMap":"https://goo.gl/maps/MD8xuXw189ukAiCYA",
+    "PinCode" : "110040",
+    "VCAddress":"Village Bhor Garh Narela , Delhi-110040, North Delhi, Delhi, 110040",
+    "VCName":"DGD BHORGARH PHC"
+    },
+   {
+    "GoogleMap":"https://goo.gl/maps/ZD5Yb4b9i8Tc8Wbx7",
+    "PinCode" : "110039",
+    "VCAddress":"Main Bus Stand Village Daryapur Kalan Delhi-39, North Delhi, Delhi, 110039",
+    "VCName":"DGD DARIYAPUR KALAN PHC"
+    },
+
+    {
+        "GoogleMap":"https://goo.gl/maps/h6AWkboJ1mXXrg3L7",
+        "PinCode" : "110033",
+        "VCAddress":"Phase-I, Community Centre, Rajpura, GurMandi, Delhi-7, North Delhi, Delhi, 110033",
+        "VCName":"DGD GUR MANDI PHC"
+        },
+    {
+        "GoogleMap":"https://goo.gl/maps/CAZaCyaoJ1KE8C639",
+        "PinCode" : "110039",
+        "VCAddress":"Village Harewali, Delhi 39, North Delhi, Delhi, 110039",
+        "VCName":"DGD HAREWALI PHC"
+        },
+    
+    {
+        "GoogleMap":"https://goo.gl/maps/99KzGXw6biWs2DoX8",
+        "PinCode" : "110082",
+        "VCAddress":"DGD Holambi Kalan Ph-2, North Delhi, Delhi, 110082",
+        "VCName":"DGD HOLAMBI KALAN PH2 PHC"
+        },
+    {    
+        "GoogleMap":"https://goo.gl/maps/e5Xu53X89tLytszNA",
+        "PinCode" : "110033",
+        "VCAddress":"DGD B-Block Jahangir Puri Delhi-33, North Delhi, Delhi, 110033",
+        "VCName":"DGD JAHANGIRPURI B BLOCK PHC"
+        },
+    {    
+        "GoogleMap":"https://goo.gl/maps/L9yPjdSSFAPYskdx8",
+        "PinCode" : "110033",
+        "VCAddress":"H Block, Jahangirpuri, Delhi- 33, North Delhi, Delhi, 110033",
+        "VCName":"DGD JAHANGIRPURI H BLOCK"
+        },
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/CYtFd1B2TcSvJ4Zp6",
+        "PinCode" : "110039",
+        "VCAddress":"Village Katewara Delhi-39, North Delhi, Delhi, 110039",
+        "VCName":"DGD KATEWARA PHC"
+        },
+
+    {    
+        "GoogleMap":"https://goo.gl/maps/CYtFd1B2TcSvJ4Zp6",
+        "PinCode" : "110039",
+        "VCAddress":"Village Katewara Delhi-39, North Delhi, Delhi, 110039",
+        "VCName":"DGD KATEWARA PHC"
+        },
+
+    {    
+        "GoogleMap":"https://goo.gl/maps/KgkdPmQXKCodvv8T7",
+        "PinCode" : "11009",
+        "VCAddress":"DDA Flats, Model Town, Part-l,Delhi-09, North Delhi, Delhi, 110009",
+        "VCName":"DGD MODEL TOWN PHC"
+        },
+
+    {    
+        "GoogleMap":"https://www.google.com/maps/search/Delhi+Govt.+Dispensary+Mukhmailpu,+Mukhmailpur+Village+And+Post+Office,Delhi-110036,+North+Delhi,+Delhi,+110036/@28.7941502,77.1580622,15z/data=!3m1!4b1",
+        "PinCode" : "110036",
+        "VCAddress":"Delhi Govt. Dispensary Mukhmailpu, Mukhmailpur Village And Post Office,Delhi-110036, North Delhi,",
+        "VCName":"DGD MUKHMAIL PUR PHC"
+        },
+
+    {    
+        "GoogleMap":"https://goo.gl/maps/TEhFMMLQbrDdGR5HA",
+        "PinCode" : "110085",
+        "VCAddress":"B-Block, Prashant Vihar, Rohini, Delhi-85, North Delhi, Delhi, 110085",
+        "VCName":"DGD PRASHANT VIHAR"
+        },
+
+    {    
+        "GoogleMap":"https://goo.gl/maps/n9n1dNnzD3TPxWG48",
+        "PinCode" : "110089",
+        "VCAddress":"Sec. 15 Rohini Bhagwan Mahaveer Road, North Delhi, Delhi, 110089",
+        "VCName":"ESI HOSPITAL ROHINI DIS. HOS 2"
+        },
+    {    
+        "GoogleMap":"https://goo.gl/maps/pUNWbD6UigAQb6Nb7",
+        "PinCode" : "110089",
+        "VCAddress":"Sec. 15 Rohini Bhagwan Mahaveer Road, North Delhi, Delhi, 110089",
+        "VCName":"ESI HOSPITAL ROHINI DIST.HSO."
+        },
+    {    
+        "GoogleMap":"https://goo.gl/maps/sLSCRREn1XGxJDeQ8",
+        "PinCode" : "110036",
+        "VCAddress":"Narela, North Delhi, Delhi, 110036",
+        "VCName":"ESI NARELA"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/g2w6Ng31RrVummAC8",
+        "PinCode" : "110033",
+        "VCAddress":"Govt. Boys Senior Secondary School D Block Jahangirpuri North Delhi 110033, North Delhi, Delhi, 110033",
+        "VCName":"GBSSS D BLK JAHANGIRPURI SITE1"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/u115xa9pV5imxMxp6",
+        "PinCode" : "110033",
+        "VCAddress":"Govt. Boys Senior Secondary School D Block Jahangirpuri North Delhi 110033, North Delhi, Delhi, 110033",
+        "VCName":"GBSSS D BLK JAHANGIRPURI SITE2"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/jb7EoEXcEaFLfp476",
+        "PinCode" : "110033",
+        "VCAddress":"Govt. Boys Senior Secondary School D Block Jahangirpuri North Delhi 110033, North Delhi, Delhi, 110033",
+        "VCName":"GBSSS D BLK JAHANGIRPURI SITE3"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/SSeUVpSqHM115uNa8",
+        "PinCode" : "110033",
+        "VCAddress":"Govt. Boys Senior Secondary School D Block Jahangirpuri North Delhi 110033, North Delhi, Delhi, 110033",
+        "VCName":"GBSSS D BLK JAHANGIRPURI SITE4"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/DvtnAVHQccBkX4Z38",
+        "PinCode" : "110033",
+        "VCAddress":"Govt. Boys Senior Secondary School D Block Jahangirpuri North Delhi 110033, North Delhi, Delhi, 110033",
+        "VCName":"GBSSS D BLK JAHANGIRPURI SITE5"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/JXF4moGjk2FNUDxd9",
+        "PinCode" : "110042",
+        "VCAddress":"Govt. Girls Senior Secondary School Shahbad Daulatpur North Delhi, North Delhi, Delhi, 110042",
+        "VCName":"GGSSS SHAHBAAD DAULATPU SITE5"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/zbTYwSic7HtnoLHYA",
+        "PinCode" : "110042",
+        "VCAddress":"Govt. Girls Senior Secondary School Shahbad Daulatpur North Delhi, North Delhi, Delhi, 110042",
+        "VCName":"GGSSS SHAHBAD DAULATPUR SITE1"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/zbTYwSic7HtnoLHYA",
+        "PinCode" : "110042",
+        "VCAddress":"Govt. Girls Senior Secondary School Shahbad Daulatpur North Delhi, North Delhi, Delhi, 110042",
+        "VCName":"GGSSS SHAHBAD DAULATPUR SITE2"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/zbTYwSic7HtnoLHYA",
+        "PinCode" : "110042",
+        "VCAddress":"Govt. Girls Senior Secondary School Shahbad Daulatpur North Delhi, North Delhi, Delhi, 110042",
+        "VCName":"GGSSS SHAHBAD DAULATPUR SITE3"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/zbTYwSic7HtnoLHYA",
+        "PinCode" : "110042",
+        "VCAddress":"Govt. Girls Senior Secondary School Shahbad Daulatpur North Delhi, North Delhi, Delhi, 110042",
+        "VCName":"GGSSS SHAHBAD DAULATPUR SITE4"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/QdyxaC3Akvb7fM5j8",
+        "PinCode" : "110033",
+        "VCAddress":"Azadpur Terminal G T Karnal Rd Lal Bagh Azadpur Delhi- 110033, North Delhi, Delhi, 110033",
+        "VCName":"MCPS AZADPUR VILLAGE SITE 1"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/QdyxaC3Akvb7fM5j8",
+        "PinCode" : "110033",
+        "VCAddress":"Azadpur Terminal G T Karnal Rd Lal Bagh Azadpur Delhi- 110033, North Delhi, Delhi, 110033",
+        "VCName":"MCPS AZADPUR VILLAGE SITE 2"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/QdyxaC3Akvb7fM5j8",
+        "PinCode" : "110033",
+        "VCAddress":"Azadpur Terminal G T Karnal Rd Lal Bagh Azadpur Delhi- 110033, North Delhi, Delhi, 110033",
+        "VCName":"MCPS AZADPUR VILLAGE SITE 3"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/9ZYjdMKvPMVGLGeG7",
+        "PinCode" : "110009",
+        "VCAddress":"MCD Primary School(Co-ed) State Bank Colony G.T Karnal Road Gujranwala Town Delhi110009, North Delhi, Delhi, 110009",
+        "VCName":"MCPS STATE BANK COLONY.SITE1"
+     },
+    {    
+        "GoogleMap":"https://goo.gl/maps/9ZYjdMKvPMVGLGeG7",
+        "PinCode" : "110009",
+        "VCAddress":"MCD Primary School(Co-ed) State Bank Colony G.T Karnal Road Gujranwala Town Delhi110009, North Delhi, Delhi, 110009",
+        "VCName":"MCPS STATE BANK COLONY.SITE2"
+     },
+    {    
+        "GoogleMap":"https://goo.gl/maps/9ZYjdMKvPMVGLGeG7",
+        "PinCode" : "110009",
+        "VCAddress":"MCD Primary School(Co-ed) State Bank Colony G.T Karnal Road Gujranwala Town Delhi110009, North Delhi, Delhi, 110009",
+        "VCName":"MCPS STATE BANK COLONY.SITE3"
+     },
+
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/Xdp7kgLWXEEW18fj9",
+        "PinCode" : "110036",
+        "VCAddress":"M And CW ALIPUR, North Delhi, Delhi, 110036",
+        "VCName":"MCW ALIPUR PHC"
+     },
+
+    
+    
+    {    
+        "GoogleMap":"https://goo.gl/maps/stEz6v3HmEXWZtc99",
+        "PinCode" : "110042",
+        "VCAddress":"M And Cw Centre Badli Near Underpass, North Delhi, Delhi, 110042",
+        "VCName":"MCW BADLI PHC"
+     }
+
+    
+   
+
+    
+
+
+    
+    ]
